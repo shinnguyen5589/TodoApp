@@ -7,7 +7,5 @@ target 'TodoApp' do
 
   # Pods for TodoApp
   pod 'SnapKit'
-  # pod 'Firebase/Analytics'
-  # pod 'Firebase/Database'
   pod 'RealmSwift'
 end
